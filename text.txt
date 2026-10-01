@@ -1,8 +1,0 @@
-This is Git Practice Project1
-This is the 2nd Change in this Project
-This is the 3rd Change int this Project 
-This is the Feature-1 Branch Change 
-This is the Feature-1 Branch change for Conflict 
-AbC
-Xyx.
-
